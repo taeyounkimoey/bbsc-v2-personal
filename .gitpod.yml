@@ -18,6 +18,7 @@ ports:
     onOpen: ignore
   - port: 80
     onOpen: ignore
+    visibility: public
   - port: 443
     onOpen: ignore
 
